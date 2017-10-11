@@ -18,6 +18,5 @@ http://users.ece.utexas.edu/~valvano/
  
 Modified by NISI 11.10.2017 to demonstrate the scope of global variables.
 Global variables should be avoided to prevent accidental overwrite.
-Also global variables live on the HEAP compared to local variables that lives on the STACK.
  
 Challenge: Put the var declaration inside main and obtain the same functionality using pointers.
